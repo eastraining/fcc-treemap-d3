@@ -6,7 +6,7 @@ body {
     flex-direction: column;
     min-height: 98vh;
     color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container {
